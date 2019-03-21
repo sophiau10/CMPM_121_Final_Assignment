@@ -5,7 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Environment.unity
+    guid: a3548b015690ec141a6222ea0fc6dca4
+  - enabled: 1
+    path: Assets/Scenes/FallDeath.unity
+    guid: a5bac386f0f65244f9e023f14e5a3504
+  - enabled: 1
+    path: Assets/Scenes/FireDeath.unity
+    guid: 92dbb260c8e57bc4c8ff647dea9eca1f
+  - enabled: 1
+    path: Assets/Scenes/You Win.unity
+    guid: 9ff22f9ffba11894bb2440c767f5c2b1
   m_configObjects: {}
